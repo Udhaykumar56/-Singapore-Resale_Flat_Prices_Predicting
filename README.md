@@ -10,5 +10,3 @@ The project will involve the following tasks:
 5.Streamlit Web Application: Develop a user-friendly web application using Streamlit that allows users to input details of a flat (town, flat type, storey range, etc.). Utilize the trained machine learning model to predict the resale price based on user inputs.
 6.Deployment on Render: Deploy the Streamlit application on the Render platform to make it accessible to users over the internet.
 7.Testing and Validation: Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
-
-
